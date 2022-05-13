@@ -1,0 +1,8 @@
+{
+  "db_host": "185.246.155.239:6379",
+  "db_pass": "redisdb@114328",
+  "web_port": "80",
+  "use_proxy": true,
+  "rutor_parse_time" : 5
+
+}
